@@ -19,8 +19,6 @@ namespace AiDev.Items.Summon.Minions
 
         public override void SetDefaults()
         {
-            Projectile.scale = 4;
-
             // Only controls if it deals damage to enemies on contact (more on that later)
             Projectile.friendly = true;
 
