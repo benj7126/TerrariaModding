@@ -20,7 +20,13 @@ namespace AiDev.Items.Summon.Minions
 
         public override void SetDefaults()
         {
-            Projectile.damage = 1;
+            Projectile.damage = 4;
+            Projectile.scale = 2;
+
+            Projectile.width = 18;
+            Projectile.height = 18;
+
+            Projectile.TopLeft = new Vector2(9, 9);
 
             // Only controls if it deals damage to enemies on contact (more on that later)
             Projectile.friendly = true;
@@ -118,7 +124,7 @@ namespace AiDev.Items.Summon.Minions
                 Projectile.velocity = (Projectile.velocity * (inertia - 1) + direction) / inertia;
 
                 Projectile.rotation -= Projectile.velocity.Length()/10f;
-                if (Projectile.rotation > MathHelper.Pi * 4)
+                if (Projectile.rotation > MathHelper.Pi * 6)
                     Projectile.rotation -= MathHelper.Pi * 2;
             }
             else
@@ -127,7 +133,7 @@ namespace AiDev.Items.Summon.Minions
                 float speed = 8f;
                 float inertia = 40f;
 
-                float targetRot = MathHelper.Pi;
+                float targetRot = MathHelper.Pi*2;
 
                 Vector2 direction = vecToIdle;
                 direction.Normalize();

@@ -15,7 +15,12 @@
       "ProjectGuid": "325bd924-2209-4c74-bd1a-53643c13a268",
       "DisplayName": "AiDev",
       "ColorIndex": 1
+    },
+    "e2f831e5-86c1-4c74-a72c-c0448b13bff4": {
+      "ProjectGuid": "e2f831e5-86c1-4c74-a72c-c0448b13bff4",
+      "DisplayName": "AiDev",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
