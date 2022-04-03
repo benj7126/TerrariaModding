@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c28d9925-25e8-470e-8ff3-e5dc579213ed": {
+      "ProjectGuid": "c28d9925-25e8-470e-8ff3-e5dc579213ed",
+      "DisplayName": "AiDev",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "325bd924-2209-4c74-bd1a-53643c13a268": {
+      "ProjectGuid": "325bd924-2209-4c74-bd1a-53643c13a268",
+      "DisplayName": "AiDev",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

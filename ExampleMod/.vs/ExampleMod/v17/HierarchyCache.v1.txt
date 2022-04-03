@@ -1,0 +1,1597 @@
+﻿++Solution 'ExampleMod' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ExampleMod.sln
+++ExampleMod
+i:{00000000-0000-0000-0000-000000000000}:ExampleMod
+++Dependencies
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:>1964
+++Properties
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\properties\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\properties\
+++Assets
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\
+++Common
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\
+++Configs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\configs\
+++GlobalBossBars
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalbossbars\
+++GlobalItems
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalitems\
+++ExampleResearchSorting.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalitems\exampleresearchsorting.cs
+++ShortswordGlobalItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalitems\shortswordglobalitem.cs
+++GlobalNPCs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalnpcs\
+++GlobalProjectiles
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalprojectiles\
+++ItemDropRules
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\itemdroprules\
+++Players
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\players\
+++Systems
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\systems\
+++ExamplePlayerDrawLayer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\exampleplayerdrawlayer.cs
+++ManualMusicRegistrationExample.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\manualmusicregistrationexample.cs
+++Content
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\
+++Biomes
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\
+++BossBars
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\bossbars\
+++BossBarStyles
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\bossbarstyles\
+++Buffs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\
+++Currencies
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\currencies\
+++DamageClasses
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\damageclasses\
+++Dusts
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\
+++Items
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\items\
+++Accessories
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\
+++Ammo
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\ammo\
+++Armor
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\
+++Consumables
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\
+++Placeable
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\
+++Furniture
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\
+++Unused
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\unused\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\unused\
+++ExampleBed.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplebed.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplebed.cs
+++ExampleBed.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplebed.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplebed.png
+++ExampleChair.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplechair.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplechair.cs
+++ExampleChair.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplechair.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplechair.png
+++ExampleChest.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplechest.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplechest.cs
+++ExampleChest.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplechest.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplechest.png
+++ExampleChestKey.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplechestkey.png
+++ExampleClock.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampleclock.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampleclock.cs
+++ExampleClock.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampleclock.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampleclock.png
+++ExampleDoor.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampledoor.cs
+++ExampleDoor.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampledoor.png
+++ExamplePlatform.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampleplatform.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampleplatform.cs
+++ExamplePlatform.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampleplatform.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampleplatform.png
+++ExampleSink.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplesink.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplesink.cs
+++ExampleSink.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\examplesink.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplesink.png
+++ExampleTable.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampletable.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampletable.cs
+++ExampleTable.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampletable.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampletable.png
+++ExampleWorkbench.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampleworkbench.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampleworkbench.cs
+++ExampleWorkbench.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\exampleworkbench.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampleworkbench.png
+++MinionBossRelic.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\minionbossrelic.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\minionbossrelic.cs
+++MinionBossRelic.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\minionbossrelic.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\minionbossrelic.png
+++MinionBossTrophy.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\minionbosstrophy.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\minionbosstrophy.cs
+++MinionBossTrophy.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\minionbosstrophy.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\minionbosstrophy.png
+++ExampleBar.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplebar.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplebar.cs
+++ExampleBar.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplebar.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplebar.png
+++ExampleBlock.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\exampleblock.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleblock.cs
+++ExampleBlock.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\exampleblock.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleblock.png
+++ExampleLamp.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplelamp.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplelamp.cs
+++ExampleLamp.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplelamp.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplelamp.png
+++ExampleMusicBox.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplemusicbox.cs
+++ExampleMusicBox.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplemusicbox.png
+++ExampleOre.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\exampleore.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleore.cs
+++ExampleOre.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\exampleore.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleore.png
+++ExampleTorch.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\exampletorch.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampletorch.cs
+++ExampleTorch.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\exampletorch.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampletorch.png
+++ExampleTorch_Flame.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\exampletorch_flame.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampletorch_flame.png
+++ExampleWall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplewall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\walls\examplewall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\walls\examplewall.cs
+++ExampleWall.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\examplewall.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\walls\examplewall.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\walls\examplewall.png
+++Tools
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\
+++Weapons
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\
+++ExampleCloneWeapon.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplecloneweapon.cs
+++ExampleCloneWeapon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplecloneweapon.png
+++ExampleCustomAmmoGun.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplecustomammogun.cs
+++ExampleCustomAmmoGun.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplecustomammogun.png
+++ExampleCustomDamageWeapon.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplecustomdamageweapon.cs
+++ExampleGun.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplegun.cs
+++ExampleGun.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplegun.png
+++ExampleMagicWeapon.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplemagicweapon.cs
+++ExampleMagicWeapon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplemagicweapon.png
+++ExampleMinigun.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\exampleminigun.cs
+++ExampleMinigun.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\exampleminigun.png
+++ExampleModifiedProjectilesItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplemodifiedprojectilesitem.cs
+++ExampleShootingSword.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\exampleshootingsword.cs
+++ExampleShootingSword.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\exampleshootingsword.png
+++ExampleShotgun.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\exampleshotgun.cs
+++ExampleShotgun.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\exampleshotgun.png
+++ExampleSpear.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplespear.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplespear.cs
+++ExampleSpear.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplespear.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplespear.png
+++ExampleSword.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplesword.cs
+++ExampleSword.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\weapons\examplesword.png
+++ExampleDataItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampledataitem.cs
+++ExampleDye.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampledye.cs
+++ExampleDye.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampledye.png
+++ExampleGolfBall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplegolfball.cs
+++ExampleGolfBall.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplegolfball.png
+++ExampleHairDye.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplehairdye.cs
+++ExampleHairDye.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplehairdye.png
+++ExampleInstancedItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampleinstanceditem.cs
+++ExampleItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampleitem.cs
+++ExampleItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampleitem.png
+++ExampleMountItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplemountitem.cs
+++ExampleMountItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplemountitem.png
+++ExampleQuestFish.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplequestfish.cs
+++ExampleQuestFish.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplequestfish.png
+++ExampleSoul.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplesoul.cs
+++ExampleSoul.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\examplesoul.png
+++ExampleTooltipsItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampletooltipsitem.cs
+++ExampleTooltipsItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\exampletooltipsitem.png
+++Mounts
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\mounts\
+++NPCs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\
+++Pets
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\
+++Projectiles
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\projectiles\
+++Rarities
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\rarities\
+++Tiles
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\
+++ExampleBed_Highlight.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplebed_highlight.png
+++ExampleChest_Highlight.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\examplechest_highlight.png
+++ExampleDoorClosed.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampledoorclosed.cs
+++ExampleDoorClosed.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampledoorclosed.png
+++ExampleDoorClosed_Highlight.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampledoorclosed_highlight.png
+++ExampleDoorOpen.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampledooropen.cs
+++ExampleDoorOpen.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampledooropen.png
+++ExampleDoorOpen_Highlight.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\exampledooropen_highlight.png
+++RelicPedestal.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\relicpedestal.png
+++ExampleAnimatedGlowmaskTile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleanimatedglowmasktile.cs
+++ExampleAnimatedGlowmaskTile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleanimatedglowmasktile.png
+++ExampleAnimatedGlowmaskTile_Glow.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleanimatedglowmasktile_glow.png
+++ExampleAnimatedGlowmaskTileItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleanimatedglowmasktileitem.png
+++ExampleAnimatedTile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleanimatedtile.cs
+++ExampleAnimatedTile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleanimatedtile.png
+++ExampleAnimatedTileItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\exampleanimatedtileitem.png
+++ExampleLamp_Flame.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplelamp_flame.png
+++ExampleMusicBoxTile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplemusicboxtile.cs
+++ExampleMusicBoxTile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\examplemusicboxtile.png
+++Walls
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\walls\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\walls\
+++ExampleInfoDisplay.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\exampleinfodisplay.cs
+++ExampleInfoDisplay.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\exampleinfodisplay.png
+++ExampleModMenu.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\examplemodmenu.cs
+++ExampleRecipes.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\examplerecipes.cs
+++Localization
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\localization\
+++Old
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\
+++Commands
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\
+++Effects
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\effects\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\effects\
+++Fonts
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\fonts\
+++Gores
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\gores\
+++Abomination
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\
+++PuritySpirit
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\
+++DeathAnimation.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\deathanimation.cs
+++DeathAnimation.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\deathanimation.png
+++ExampleChestSummon.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\examplechestsummon.cs
+++ExampleCritter.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\examplecritter.cs
+++ExampleCritterItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\examplecritteritem.png
+++ExampleCritterNPC.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\examplecritternpc.png
+++ExampleGlobalNPC.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\exampleglobalnpc.cs
+++ExampleTravelingMerchant.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\exampletravelingmerchant.cs
+++ExampleTravelingMerchant.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\exampletravelingmerchant.png
+++ExampleTravelingMerchant_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\exampletravelingmerchant_head.png
+++FallenSoul.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\fallensoul.cs
+++FallenSoul.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\fallensoul.png
+++Fish.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\fish.cs
+++Hover.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\hover.cs
+++Lock.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\lock.png
+++Octopus.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\octopus.cs
+++Octopus.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\octopus.png
+++Sarcophagus.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\sarcophagus.cs
+++Sarcophagus.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\sarcophagus.png
+++Seal.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\seal.png
+++Prefixes
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\prefixes\
+++Sounds
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\sounds\
+++UI
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\
+++Angle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\angle.cs
+++ExampleAdvancedRecipe.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\exampleadvancedrecipe.cs
+++ExampleConfig.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\exampleconfig.cs
+++ExampleMod.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\examplemod.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\examplemod.cs
+++ExamplePlayer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\exampleplayer.cs
+++ExampleWorld.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\exampleworld.cs
+++RecipeHelper.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\recipehelper.cs
+++SimpleModPlayer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\simplemodplayer.cs
+++.editorconfig
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\.editorconfig
+++build.txt
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\build.txt
+++description.txt
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\description.txt
+++icon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\icon.png
+++icon_small.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\icon_small.png
+++Analyzers
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:analyzers
+++Assemblies
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:assemblies
+++Frameworks
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:frameworks
+++Packages
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:packages
+++launchSettings.json
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\properties\launchsettings.json
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\properties\launchsettings.json
+++Music
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\music\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\music\
+++Textures
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\
+++ExampleModConfig.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\configs\examplemodconfig.cs
+++ExampleGlobalBossBar.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalbossbars\exampleglobalbossbar.cs
+++ExampleNPCLoot.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalnpcs\examplenpcloot.cs
+++ExampleNPCShop.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalnpcs\examplenpcshop.cs
+++GuideGlobalNPC.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalnpcs\guideglobalnpc.cs
+++ProjectileModificationGlobalNPC.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalnpcs\projectilemodificationglobalnpc.cs
+++ExampleProjectileModifications.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\globalprojectiles\exampleprojectilemodifications.cs
+++Conditions
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\itemdroprules\conditions\
+++ExampleAccessorySlot.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\players\exampleaccessoryslot.cs
+++ExampleInventoryPlayer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\players\exampleinventoryplayer.cs
+++ExampleKeybindPlayer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\players\examplekeybindplayer.cs
+++ExampleLuckPlayer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\players\exampleluckplayer.cs
+++DownedBossSystem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\systems\downedbosssystem.cs
+++ExampleBiomeTileCount.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\systems\examplebiometilecount.cs
+++SimpleDataAtParticularLocations.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\systems\simpledataatparticularlocations.cs
+++ExampleBiomeMapBackground.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplebiomemapbackground.png
+++ExampleSurfaceBackgroundStyle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplesurfacebackgroundstyle.cs
+++ExampleSurfaceBiome.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplesurfacebiome.cs
+++ExampleUndergroundBackgroundStyle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\exampleundergroundbackgroundstyle.cs
+++ExampleUndergroundBiome.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\exampleundergroundbiome.cs
+++ExampleWaterfallStyle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplewaterfallstyle.cs
+++ExampleWaterfallStyle.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplewaterfallstyle.png
+++ExampleWaterStyle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplewaterstyle.cs
+++ExampleWaterStyle.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplewaterstyle.png
+++ExampleWaterStyle_Block.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\biomes\examplewaterstyle_block.png
+++BossBarTemplate.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\bossbars\bossbartemplate.png
+++ExampleBossBar.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\bossbars\examplebossbar.cs
+++ExampleBossBar.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\bossbars\examplebossbar.png
+++MinionBossBossBar.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\bossbars\minionbossbossbar.cs
+++ExampleBossBarStyle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\bossbarstyles\examplebossbarstyle.cs
+++BuffTemplate.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\bufftemplate.png
+++DebuffTemplate.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\debufftemplate.png
+++ExampleDefenseBuff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\exampledefensebuff.cs
+++ExampleDefenseBuff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\exampledefensebuff.png
+++ExampleLifeRegenDebuff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\exampleliferegendebuff.cs
+++ExampleLifeRegenDebuff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\exampleliferegendebuff.png
+++ExampleMountBuff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\examplemountbuff.cs
+++ExampleMountBuff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\buffs\examplemountbuff.png
+++ExampleCustomCurrency.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\currencies\examplecustomcurrency.cs
+++ExampleDamageClass.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\damageclasses\exampledamageclass.cs
+++ExampleAdvancedDust.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\exampleadvanceddust.cs
+++ExampleBubble.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\examplebubble.cs
+++ExampleBubble.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\examplebubble.png
+++ExampleSolution.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\examplesolution.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\ammo\examplesolution.cs
+++ExampleSolution.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\examplesolution.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\items\examplesolution.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\projectiles\examplesolution.png
+++Sparkle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\sparkle.cs
+++Sparkle.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\dusts\sparkle.png
+++ExampleShield.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\exampleshield.cs
+++ExampleShield.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\exampleshield.png
+++ExampleShield_Shield.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\exampleshield_shield.png
+++ExampleStatBonusAccessory.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\examplestatbonusaccessory.cs
+++ExampleStatBonusAccessory.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\examplestatbonusaccessory.png
+++ExampleWings.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\examplewings.cs
+++ExampleWings.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\examplewings.png
+++ExampleWings_Wings.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\examplewings_wings.png
+++WaspNest.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\waspnest.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\waspnest.cs
+++WaspNest.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\waspnest.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\waspnest.png
+++WaspNest_Back.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\accessories\waspnest_back.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\waspnest_back.png
+++ExampleBullet.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\ammo\examplebullet.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplebullet.cs
+++ExampleBullet.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\ammo\examplebullet.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplebullet.png
+++ExampleCustomAmmo.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\ammo\examplecustomammo.cs
+++ExampleCustomAmmo.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\ammo\examplecustomammo.png
+++Vanity
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\vanity\
+++ExampleBreastplate.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplebreastplate.cs
+++ExampleBreastplate.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplebreastplate.png
+++ExampleBreastplate_Body.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplebreastplate_body.png
+++ExampleHelmet.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplehelmet.cs
+++ExampleHelmet.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplehelmet.png
+++ExampleHelmet_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplehelmet_head.png
+++ExampleHood.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplehood.cs
+++ExampleHood.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplehood.png
+++ExampleHood_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\examplehood_head.png
+++ExampleLeggings.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\exampleleggings.cs
+++ExampleLeggings.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\exampleleggings.png
+++ExampleLeggings_Legs.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\exampleleggings_legs.png
+++SimpleAccessory_Balloon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\simpleaccessory_balloon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\simpleaccessory_balloon.png
+++ExampleBuffPotion.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\examplebuffpotion.cs
+++ExampleBuffPotion.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\examplebuffpotion.png
+++ExampleHealingPotion.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\examplehealingpotion.cs
+++ExampleHealingPotion.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\examplehealingpotion.png
+++ExampleLifeFruit.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\examplelifefruit.cs
+++ExampleLifeFruit.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\examplelifefruit.png
+++MinionBossBag.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\minionbossbag.cs
+++MinionBossBag.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\minionbossbag.png
+++MinionBossSummonItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\minionbosssummonitem.cs
+++MinionBossSummonItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\minionbosssummonitem.png
+++PlanteraItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\planteraitem.cs
+++PlanteraItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\consumables\planteraitem.png
+++ExampleBathtub.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\unused\examplebathtub.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\unused\examplebathtub.png
+++ExampleCandle.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\unused\examplecandle.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\unused\examplecandle.png
+++ExampleDresser.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\unused\exampledresser.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\unused\exampledresser.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampledresser.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\exampledresser.png
+++ExampleLantern.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\placeable\furniture\unused\examplelantern.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\tiles\furniture\unused\examplelantern.png
+++ExampleFishingRod.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplefishingrod.cs
+++ExampleFishingRod.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplefishingrod.png
+++ExampleHamaxe.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplehamaxe.cs
+++ExampleHamaxe.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplehamaxe.png
+++ExampleHook.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplehook.cs
+++ExampleHookChain.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplehookchain.png
+++ExampleHookItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplehookitem.png
+++ExampleHookProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplehookprojectile.png
+++ExampleMagicMirror.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplemagicmirror.cs
+++ExamplePickaxe.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplepickaxe.cs
+++ExamplePickaxe.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\tools\examplepickaxe.png
+++ExampleMount.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\mounts\examplemount.cs
+++ExampleMount_Back.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\mounts\examplemount_back.png
+++ExampleMount_Front.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\mounts\examplemount_front.png
+++MinionBoss
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\
+++ExampleCustomAISlimeNPC.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\examplecustomaislimenpc.cs
+++ExampleCustomAISlimeNPC.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\examplecustomaislimenpc.png
+++ExampleDrawBehindNPC.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\exampledrawbehindnpc.cs
+++ExampleDrawBehindNPC.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\exampledrawbehindnpc.png
+++ExamplePerson.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\exampleperson.cs
+++ExamplePerson.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\exampleperson.png
+++ExamplePerson_Alt_1.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\exampleperson_alt_1.png
+++ExamplePerson_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\exampleperson_head.png
+++ExampleWorm_Bestiary.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\exampleworm_bestiary.png
+++PartyZombie.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\partyzombie.cs
+++PartyZombie.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\partyzombie.png
+++Worm.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\worm.cs
+++ExampleLightPet
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplelightpet\
+++ExamplePet
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplepet\
+++MinionBossPet
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\
+++Minions
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\minions\
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\minions\
+++ExampleAdvancedAnimatedProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\exampleadvancedanimatedprojectile.cs
+++ExampleAdvancedAnimatedProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\exampleadvancedanimatedprojectile.png
+++ExampleBobber.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplebobber.cs
+++ExampleBobber.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplebobber.png
+++ExampleCloneProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplecloneprojectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplecloneprojectile.cs
+++ExampleCloneProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplecloneprojectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplecloneprojectile.png
+++ExampleGolfBallProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplegolfballprojectile.cs
+++ExampleGolfBallProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplegolfballprojectile.png
+++ExampleHomingProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplehomingprojectile.cs
+++ExampleHomingProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplehomingprojectile.png
+++ExamplePiercingProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplepiercingprojectile.cs
+++ExamplePiercingProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplepiercingprojectile.png
+++ExampleSpearProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplespearprojectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplespearprojectile.cs
+++ExampleSpearProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\examplespearprojectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplespearprojectile.png
+++MinionBossEye.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\minionbosseye.cs
+++MinionBossEye.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\minionbosseye.png
+++ExampleHigherTierModRarity.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\rarities\examplehighertiermodrarity.cs
+++ExampleModRarity.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\rarities\examplemodrarity.cs
+++en-US.hjson
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\localization\en-us.hjson
+++ru-RU.hjson
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\localization\ru-ru.hjson
+++Blocky.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\blocky.cs
+++Blocky.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\blocky.png
+++ExampleJavelin.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\examplejavelin.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplejavelin.cs
+++HeroBuffTemplate.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\herobufftemplate.png
+++HeroOne.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\heroone.cs
+++HeroOne.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\heroone.png
+++HeroThree.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\herothree.cs
+++HeroThree.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\herothree.png
+++HeroTwo.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\herotwo.cs
+++HeroTwo.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\herotwo.png
+++ImbueBuffTemplate.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\imbuebufftemplate.png
+++Nullified.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\nullified.cs
+++Nullified.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\nullified.png
+++PurityWisp.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\puritywisp.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\minions\puritywisp.cs
+++PurityWisp.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\puritywisp.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\minions\puritywisp.png
+++Skull.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\skull.png
+++Undead.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\undead.cs
+++Undead.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\undead.png
+++Undead2.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\undead2.cs
+++Undead2.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\buffs\undead2.png
+++AddTimeCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\addtimecommand.cs
+++CoinCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\coincommand.cs
+++ItemCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\itemcommand.cs
+++LagCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\lagcommand.cs
+++NPCCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\npccommand.cs
+++NpcTypeCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\npctypecommand.cs
+++ScoreCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\scorecommand.cs
+++SoundCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\soundcommand.cs
+++VolcanoCommand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\commands\volcanocommand.cs
+++EtherealFlame.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\etherealflame.cs
+++EtherealFlame.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\etherealflame.png
+++ExampleWaterSplash.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\examplewatersplash.cs
+++ExampleWaterSplash.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\examplewatersplash.png
+++Flame.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\flame.cs
+++Flame.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\flame.png
+++Negative.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\negative.cs
+++Negative.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\negative.png
+++Pixel.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\pixel.cs
+++Pixel.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\pixel.png
+++PixelHurt.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\pixelhurt.cs
+++PuriumFlame.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\puriumflame.cs
+++PuriumFlame.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\puriumflame.png
+++Smoke.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\smoke.cs
+++Smoke.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\smoke.png
+++SpectreDust.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\spectredust.cs
+++SpectreDust.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\dusts\spectredust.png
+++ExampleEffect.fx
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\effects\exampleeffect.fx
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\effects\exampleeffect.fx
+++ExampleEffect.xnb
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\effects\exampleeffect.xnb
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\effects\exampleeffect.xnb
+++ExampleEffectDeath.fx
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\effects\exampleeffectdeath.fx
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\effects\exampleeffectdeath.fx
+++ExampleEffectDeath.xnb
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\effects\exampleeffectdeath.xnb
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\effects\exampleeffectdeath.xnb
+++ExampleFont.dynamicfont
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\fonts\examplefont.dynamicfont
+++ExampleDroplet.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\exampledroplet.cs
+++ExampleDroplet.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\exampledroplet.png
+++ExampleTreeFX.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\exampletreefx.cs
+++ExampleTreeFX.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\exampletreefx.png
+++LavaSnailHead.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\lavasnailhead.png
+++LavaSnailShell.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\lavasnailshell.png
+++OctopusArm.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\octopusarm.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\octopusarm.png
+++OctopusHead.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\gores\octopushead.png
+++Banners
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\banners\
+++ExampleDamageClass
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\
+++BossBags.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\bossbags.cs
+++CopperShortsword.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\coppershortsword.cs
+++EquipMaterial.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\equipmaterial.cs
+++EquipMaterial.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\equipmaterial.png
+++ExampleDrawTooltips.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledrawtooltips.cs
+++ExplorerBag.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\explorerbag.cs
+++ExplorerBag.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\explorerbag.png
+++Fertilizer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\fertilizer.cs
+++Fertilizer.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\fertilizer.png
+++GlobalPotion.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\globalpotion.cs
+++Infinity.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\infinity.cs
+++Infinity.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\infinity.png
+++PrefixChanceGlobalItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\prefixchanceglobalitem.cs
+++PurityShield.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\purityshield.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityshield.cs
+++PurityShield.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\purityshield.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityshield.png
+++PuritySpiritBag.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\purityspiritbag.cs
+++PuritySpiritBag.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\purityspiritbag.png
+++SparklingSphere.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\sparklingsphere.cs
+++Abomination.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\abomination.cs
+++Abomination.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\abomination.png
+++Abomination_Head_Boss.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\abomination_head_boss.png
+++AbominationRun.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\abominationrun.cs
+++CaptiveElement.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement.cs
+++CaptiveElement.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement.png
+++CaptiveElement_Head_Boss.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement_head_boss.png
+++CaptiveElement_Head_Boss_1.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement_head_boss_1.png
+++CaptiveElement_Head_Boss_2.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement_head_boss_2.png
+++CaptiveElement_Head_Boss_3.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement_head_boss_3.png
+++CaptiveElement_Head_Boss_4.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement_head_boss_4.png
+++CaptiveElement2.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement2.cs
+++CaptiveElement2.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement2.png
+++CaptiveElement2_Head_Boss.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement2_head_boss.png
+++CaptiveElement2_Head_Boss_1.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement2_head_boss_1.png
+++CaptiveElement2_Head_Boss_2.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement2_head_boss_2.png
+++CaptiveElement2_Head_Boss_3.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement2_head_boss_3.png
+++CaptiveElement2_Head_Boss_4.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\captiveelement2_head_boss_4.png
+++FreedElement.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\freedelement.cs
+++HolySphere.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\holysphere.png
+++HolySphereBorder.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\holysphereborder.png
+++Rune.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\abomination\rune.png
+++Noise.class
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\noise.class
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\noise.class
+++Noise.java
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\noise.java
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\noise.java
+++Noise.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\noise.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\noise.png
+++PurityEyes.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityeyes.png
+++PurityParticle.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityparticle.png
+++PurityShieldChain.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityshieldchain.png
+++PurityShieldGlow.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityshieldglow.png
+++PuritySpirit.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityspirit.cs
+++PuritySpirit.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityspirit.png
+++PuritySpirit_Head_Boss.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityspirit_head_boss.png
+++PuritySpiritScreenShaderData.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityspiritscreenshaderdata.cs
+++PuritySpiritSky.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\purityspiritsky.cs
+++Revive.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\npcs\purityspirit\revive.png
+++AwesomePrefix.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\prefixes\awesomeprefix.cs
+++ElementBall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\elementball.cs
+++ElementBall.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\elementball.png
+++ElementLaser.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\elementlaser.cs
+++ElementLaser.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\elementlaser.png
+++ElementShield.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\elementshield.cs
+++ElementShield.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\elementshield.png
+++ExampleBehindTilesProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplebehindtilesprojectile.cs
+++ExampleExplosive.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\exampleexplosive.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampleexplosive.cs
+++ExampleExplosive.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\exampleexplosive.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampleexplosive.png
+++ExampleFlailProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\exampleflailprojectile.cs
+++ExampleFlailProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\exampleflailprojectile.png
+++ExampleFlailProjectileChain.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\exampleflailprojectilechain.png
+++ExampleJavelinProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplejavelinprojectile.cs
+++ExampleJavelinProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplejavelinprojectile.png
+++ExampleJavelinProjectile_Glow.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplejavelinprojectile_glow.png
+++ExampleLaser.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplelaser.cs
+++ExampleLaser.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplelaser.png
+++ExampleLastPrismBeam.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplelastprismbeam.cs
+++ExampleLastPrismBeam.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplelastprismbeam.png
+++ExampleLastPrismHoldout.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplelastprismholdout.cs
+++ExampleSandProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplesandprojectile.cs
+++ExampleSandProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\examplesandprojectile.png
+++ExampleYoyoProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\exampleyoyoprojectile.cs
+++ExampleYoyoProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\exampleyoyoprojectile.png
+++HealProj.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\healproj.cs
+++MagicMissile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\magicmissile.cs
+++MagicMissile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\magicmissile.png
+++MoltenDrill.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\moltendrill.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\moltendrill.cs
+++MoltenDrill.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\moltendrill.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\moltendrill.png
+++OctopusArm.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\octopusarm.cs
+++OctopusArmTip.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\octopusarmtip.png
+++PixelBall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\pixelball.cs
+++ScorePoint.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\scorepoint.cs
+++ScorePoint.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\scorepoint.png
+++ShadowArm.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\shadowarm.cs
+++ShadowArm.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\shadowarm.png
+++SparklingBall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\sparklingball.cs
+++SparklingBall.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\sparklingball.png
+++Custom
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\custom\
+++Item
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\item\
+++Trees
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\
+++AnimatedLoom.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\animatedloom.cs
+++AnimatedLoom.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\animatedloom.png
+++BossTrophy.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\bosstrophy.cs
+++BossTrophy.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\bosstrophy.png
+++ExampleCommandSign.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecommandsign.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\examplecommandsign.cs
+++ExampleCommandSign.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecommandsign.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\examplecommandsign.png
+++ExampleCritterCage.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecrittercage.cs
+++ExampleCritterCage.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecrittercage.png
+++ExampleCritterCageItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecrittercageitem.png
+++ExampleCutTile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecuttile.cs
+++ExampleCutTileItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecuttileitem.png
+++ExampleCutTileTile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplecuttiletile.png
+++ExampleDresser.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampledresser.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\exampledresser.cs
+++ExampleDresser_Highlight.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampledresser_highlight.png
+++ExampleGlobalTile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampleglobaltile.cs
+++ExampleHerb.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampleherb.cs
+++ExampleHerb.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampleherb.png
+++ExampleSand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplesand.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\examplesand.cs
+++ExampleSand.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplesand.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\examplesand.png
+++ExampleSapling.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplesapling.cs
+++ExampleSapling.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplesapling.png
+++ExampleStatue.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplestatue.cs
+++ExampleStatue.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplestatue.png
+++ExampleStatueItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\examplestatueitem.png
+++ExampleTrap.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampletrap.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\exampletrap.cs
+++ExampleTrap.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\exampletrap.png
+++Minesweeper.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\minesweeper.cs
+++Minesweeper.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\minesweeper.png
+++MonsterBanner.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\monsterbanner.cs
+++MonsterBanner.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\monsterbanner.png
+++ScoreBoard.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\scoreboard.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\scoreboard.png
+++ScoreBoard_Outline.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\scoreboard_outline.png
+++TEScoreBoard.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\tescoreboard.cs
+++VoidSky.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\voidsky.cs
+++DragableUIPanel.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\dragableuipanel.cs
+++ExamplePersonUI.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\examplepersonui.cs
+++ExampleResourceBar.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\exampleresourcebar.cs
+++ExampleResourceFrame.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\exampleresourceframe.png
+++ExampleUI.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\exampleui.cs
+++UIHoverImageButton.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\uihoverimagebutton.cs
+++VanillaItemSlotWrapper.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\ui\vanillaitemslotwrapper.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++tModLoader.CodeAssist
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\.nuget\packages\tmodloader.codeassist\0.1.3\analyzers\dotnet\cs\tmodloader.codeassist.dll
+++CsvHelper
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\csvhelper\2.0.0.0\csvhelper.dll
+++FNA
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\fna\1.0.0\fna.dll
+++Hjson
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\hjson\3.0.0\lib\netstandard1.3\hjson.dll
+++Ionic.Zip.Reduced
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\ionic.zip.reduced\1.9.1.8\ionic.zip.reduced.dll
+++log4net
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\log4net\2.0.8.0\log4net.dll
+++Microsoft.CodeAnalysis
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.common\4.0.0-6.final\lib\netcoreapp3.1\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.codeanalysis.csharp\4.0.0-6.final\lib\netcoreapp3.1\microsoft.codeanalysis.csharp.dll
+++Microsoft.Win32.SystemEvents
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\microsoft.win32.systemevents\6.0.0\lib\net6.0\microsoft.win32.systemevents.dll
+++Mono.Cecil
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.dll
+++Mono.Cecil.Mdb
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.mdb.dll
+++Mono.Cecil.Pdb
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.pdb.dll
+++Mono.Cecil.Rocks
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mono.cecil\0.11.4\lib\netstandard2.0\mono.cecil.rocks.dll
+++MonoMod.RuntimeDetour
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.runtimedetour\21.11.1.1\lib\net5.0\monomod.runtimedetour.dll
+++MonoMod.Utils
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\monomod.utils\21.11.1.1\lib\net5.0\monomod.utils.dll
+++MP3Sharp
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\mp3sharp\1.0.0.0\mp3sharp.dll
+++Newtonsoft.Json
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\newtonsoft.json\12.0.0.0\newtonsoft.json.dll
+++NVorbis
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\nvorbis\0.10.0.3\nvorbis.dll
+++RailSDK.Net
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\railsdk.net\1.0.0.0\railsdk.net.dll
+++ReLogic
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\relogic\1.0.0\relogic.dll
+++SixLabors.ImageSharp
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\sixlabors.imagesharp\1.0.3\lib\netcoreapp3.1\sixlabors.imagesharp.dll
+++Steamworks.NET
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\steamworks.net\15.0.1.0\steamworks.net.dll
+++SteelSeriesEngineWrapper
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\steelseriesenginewrapper\1.0.0.0\steelseriesenginewrapper.dll
+++System.CodeDom
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.codedom\6.0.0\lib\net6.0\system.codedom.dll
+++System.Configuration.ConfigurationManager
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.configuration.configurationmanager\6.0.0\lib\net6.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.PerformanceCounter
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.diagnostics.performancecounter\6.0.0\lib\net6.0\system.diagnostics.performancecounter.dll
+++System.Drawing.Common
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.drawing.common\6.0.0\lib\net6.0\system.drawing.common.dll
+++System.Security.Cryptography.ProtectedData
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.cryptography.protecteddata\6.0.0\lib\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.security.permissions\6.0.0\lib\net6.0\system.security.permissions.dll
+++System.Windows.Extensions
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\system.windows.extensions\6.0.0\lib\net6.0\system.windows.extensions.dll
+++TerrariaHooks
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\libraries\terrariahooks\0.0.0.0\terrariahooks.dll
+++tModLoader
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\program files (x86)\steam\steamapps\common\tmodloader\tmodloader.dll
+++Microsoft.NETCore.App
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\microsoft.netcore.app
+++tModLoader.CodeAssist (0.1.3)
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:>2005
+++Credits.txt
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\music\credits.txt
+++MysteriousMystery.ogg
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\music\mysteriousmystery.ogg
+++Ropocalypse2.ogg
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\music\ropocalypse2.ogg
+++PlasmaFire.ogg
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\sounds\plasmafire.ogg
+++Backgrounds
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\
+++Bestiary
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\bestiary\
+++Menu
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\menu\
+++ExampleDropCondition.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\common\itemdroprules\conditions\exampledropcondition.cs
+++MinionBossMask.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\vanity\minionbossmask.cs
+++MinionBossMask.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\vanity\minionbossmask.png
+++MinionBossMask_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\items\armor\vanity\minionbossmask_head.png
+++MinionBossBody.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\minionbossbody.cs
+++MinionBossBody.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\minionbossbody.png
+++MinionBossBody_Head_Boss.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\minionbossbody_head_boss.png
+++MinionBossBody_Head_Boss_SecondStage.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\minionbossbody_head_boss_secondstage.png
+++MinionBossMinion.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\minionbossminion.cs
+++MinionBossMinion.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\minionbossminion.png
+++ExampleLightPetBuff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplelightpet\examplelightpetbuff.cs
+++ExampleLightPetBuff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplelightpet\examplelightpetbuff.png
+++ExampleLightPetItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplelightpet\examplelightpetitem.cs
+++ExampleLightPetItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplelightpet\examplelightpetitem.png
+++ExampleLightPetProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplelightpet\examplelightpetprojectile.cs
+++ExampleLightPetProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplelightpet\examplelightpetprojectile.png
+++ExamplePetBuff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplepet\examplepetbuff.cs
+++ExamplePetBuff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplepet\examplepetbuff.png
+++ExamplePetItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplepet\examplepetitem.cs
+++ExamplePetItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplepet\examplepetitem.png
+++ExamplePetProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplepet\examplepetprojectile.cs
+++ExamplePetProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\examplepet\examplepetprojectile.png
+++MinionBossPetBuff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\minionbosspetbuff.cs
+++MinionBossPetBuff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\minionbosspetbuff.png
+++MinionBossPetItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\minionbosspetitem.cs
+++MinionBossPetItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\minionbosspetitem.png
+++MinionBossPetProjectile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\minionbosspetprojectile.cs
+++MinionBossPetProjectile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\minionbosspetprojectile.png
+++MinionBossPetProjectile_Eye.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\pets\minionbosspet\minionbosspetprojectile_eye.png
+++ExampleSimpleMinion.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\minions\examplesimpleminion.cs
+++ExampleSimpleMinion.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\minions\examplesimpleminion.png
+++ExampleSimpleMinionBuff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\minions\examplesimpleminionbuff.png
+++ExampleSimpleMinionItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\projectiles\minions\examplesimpleminionitem.png
+++AbominationBag.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\abominationbag.cs
+++AbominationBag.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\abominationbag.png
+++Bubble.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\bubble.cs
+++Bubble.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\bubble.png
+++ElementResidue.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\elementresidue.cs
+++ElementResidue.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\elementresidue.png
+++FoulOrb.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\foulorb.cs
+++FoulOrb.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\foulorb.png
+++Icicle.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\icicle.cs
+++Icicle.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\icicle.png
+++ScytheBlade.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\scytheblade.cs
+++ScytheBlade.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\scytheblade.png
+++SixColorShield.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\sixcolorshield.cs
+++SixColorShield.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\abomination\sixcolorshield.png
+++ExclusiveAccessory.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\exclusiveaccessory.cs
+++GreenExclusiveAccessory.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\greenexclusiveaccessory.png
+++ManaHeart.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\manaheart.cs
+++ManaHeart.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\manaheart.png
+++YellowExclusiveAccessory.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\accessories\yellowexclusiveaccessory.png
+++AbominationMask.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\abominationmask.cs
+++AbominationMask.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\abominationmask.png
+++AbominationMask_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\abominationmask_head.png
+++BunnyMask.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\bunnymask.cs
+++BunnyMask.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\bunnymask.png
+++BunnyMask_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\bunnymask_head.png
+++ExampleCostume.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplecostume.cs
+++ExampleCostume.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplecostume.png
+++ExampleCostume_Arms.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplecostume_arms.png
+++ExampleCostume_Body.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplecostume_body.png
+++ExampleCostume_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplecostume_head.png
+++ExampleCostume_Legs.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplecostume_legs.png
+++ExampleRobe.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplerobe.cs
+++ExampleRobe.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplerobe.png
+++ExampleRobe_Arms.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplerobe_arms.png
+++ExampleRobe_Body.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplerobe_body.png
+++ExampleRobe_FemaleBody.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplerobe_femalebody.png
+++ExampleRobe_Legs.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\examplerobe_legs.png
+++PuritySpiritMask.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\purityspiritmask.cs
+++PuritySpiritMask.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\purityspiritmask.png
+++PuritySpiritMask_Head.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\purityspiritmask_head.png
+++SimpleAccessory.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\simpleaccessory.png
+++SimpleAccessory_Neck.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\armor\simpleaccessory_neck.png
+++OctopusBanner.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\banners\octopusbanner.cs
+++OctopusBanner.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\banners\octopusbanner.png
+++SarcophagusBanner.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\banners\sarcophagusbanner.cs
+++SarcophagusBanner.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\banners\sarcophagusbanner.png
+++ExampleDamageAccessory.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\exampledamageaccessory.cs
+++ExampleDamageItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\exampledamageitem.cs
+++ExampleDamagePlayer.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\exampledamageplayer.cs
+++ExampleResourceAccessory.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\exampleresourceaccessory.cs
+++ExampleResourceAccessory.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\exampleresourceaccessory.png
+++ExampleResourceStaff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\exampleresourcestaff.cs
+++ExampleResourceStaff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\exampleresourcestaff.png
+++Mundane.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\exampledamageclass\mundane.cs
+++AbominationTrophy.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\abominationtrophy.cs
+++AbominationTrophy.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\abominationtrophy.png
+++BunnyTrophy.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\bunnytrophy.cs
+++BunnyTrophy.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\bunnytrophy.png
+++ExampleHerbSeeds.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\exampleherbseeds.cs
+++ExampleHerbSeeds.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\exampleherbseeds.png
+++ExampleTrapA.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\exampletrapa.png
+++ExampleTrapB.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\exampletrapb.png
+++PuritySpiritTrophy.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\purityspirittrophy.cs
+++PuritySpiritTrophy.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\purityspirittrophy.png
+++ScoreBoard.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\scoreboard.cs
+++TreeTrophy.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\treetrophy.cs
+++TreeTrophy.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\treetrophy.png
+++VoidMonolith.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\placeable\voidmonolith.cs
+++ExampleCloneItem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplecloneitem.cs
+++ExampleCloneItem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplecloneitem.png
+++ExampleDualUseWeapon.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampledualuseweapon.cs
+++ExampleDualUseWeapon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampledualuseweapon.png
+++ExampleFlail.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampleflail.cs
+++ExampleFlail.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampleflail.png
+++ExampleJavelin.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplejavelin.png
+++ExampleLaserWeapon.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplelaserweapon.cs
+++ExampleLaserWeapon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplelaserweapon.png
+++ExampleLastPrism.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplelastprism.cs
+++ExampleMagicMissile.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplemagicmissile.cs
+++ExampleMagicMissile.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplemagicmissile.png
+++ExampleStaff.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplestaff.cs
+++ExampleStaff.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\examplestaff.png
+++ExampleYoyo.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampleyoyo.cs
+++ExampleYoyo.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\exampleyoyo.png
+++PurityTotem.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\puritytotem.cs
+++PurityTotem.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\items\weapons\puritytotem.png
+++HoverShooter.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\minions\hovershooter.cs
+++Minion.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\minions\minion.cs
+++PurityBolt.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\minions\puritybolt.cs
+++PurityBolt.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\minions\puritybolt.png
+++NegativeWall.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\negativewall.cs
+++NegativeWall.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\negativewall.png
+++NullLaser.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\nulllaser.cs
+++NullLaser.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\nulllaser.png
+++PureCrystal.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\purecrystal.cs
+++PureCrystal.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\purecrystal.png
+++PureCrystalRing.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\purecrystalring.png
+++PureCrystalShield.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\purecrystalshield.png
+++PurityBeam.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\puritybeam.cs
+++PurityBeam.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\puritybeam.png
+++PuritySnake.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\puritysnake.cs
+++PuritySphere.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\puritysphere.cs
+++PuritySphere.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\puritysphere.png
+++VoidWorld.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\voidworld.cs
+++VoidWorld.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\projectiles\purityspirit\voidworld.png
+++BananaImpact.wav
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\custom\bananaimpact.wav
+++WatchOut.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\custom\watchout.cs
+++WatchOut.mp3
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\custom\watchout.mp3
+++Wooo.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\item\wooo.cs
+++Wooo.ogg
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\item\wooo.ogg
+++DriveMusic.mp3
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\music\drivemusic.mp3
+++MarbleGallery.ogg
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\sounds\music\marblegallery.ogg
+++ExampleCactus.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\examplecactus.cs
+++ExampleCactus.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\examplecactus.png
+++ExamplePalmTree.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\examplepalmtree.cs
+++ExamplePalmTree.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\examplepalmtree.png
+++ExamplePalmTree_Tops.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\examplepalmtree_tops.png
+++ExampleTree.cs
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\exampletree.cs
+++ExampleTree.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\exampletree.png
+++ExampleTree_Branches.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\exampletree_branches.png
+++ExampleTree_Tops.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\old\tiles\trees\exampletree_tops.png
+++ExampleBiomeSurfaceClose.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomesurfaceclose.png
+++ExampleBiomeSurfaceFar.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomesurfacefar.png
+++ExampleBiomeSurfaceMid0.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomesurfacemid0.png
+++ExampleBiomeSurfaceMid1.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomesurfacemid1.png
+++ExampleBiomeSurfaceMid2.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomesurfacemid2.png
+++ExampleBiomeSurfaceMid3.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomesurfacemid3.png
+++ExampleBiomeUnderground0.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomeunderground0.png
+++ExampleBiomeUnderground1.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomeunderground1.png
+++ExampleBiomeUnderground2.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomeunderground2.png
+++ExampleBiomeUnderground3.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\backgrounds\examplebiomeunderground3.png
+++MinionBoss_Preview.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\bestiary\minionboss_preview.png
+++ExampleSun.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\menu\examplesun.png
+++ExampliumMoon.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\assets\textures\menu\exampliummoon.png
+++MinionBossBody_Back.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\gores\minionbossbody_back.png
+++MinionBossBody_Front.png
+i:{6bc1aa92-12b3-49e4-a1cb-eed535885a75}:c:\users\benvb\dokumenter\my games\terraria\modloader\beta\mod sources\examplemod\content\npcs\minionboss\gores\minionbossbody_front.png

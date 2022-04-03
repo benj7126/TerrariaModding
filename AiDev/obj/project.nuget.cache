@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AwYjRYspgAG5c06CX0uHRc9AfFi8ROFLeZKBIwV+nWtgX/033IF18zmnIq9tpXC04xtNT9TEmXEgcznIhS2RrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benvb\\Dokumenter\\My Games\\Terraria\\tModLoader\\ModSources\\AiDev\\AiDev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benvb\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}

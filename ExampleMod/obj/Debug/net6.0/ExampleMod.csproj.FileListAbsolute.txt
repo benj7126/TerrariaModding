@@ -1,0 +1,5 @@
+C:\Users\benvb\Dokumenter\My Games\Terraria\ModLoader\Beta\Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.csproj.AssemblyReference.cache
+C:\Users\benvb\Dokumenter\My Games\Terraria\ModLoader\Beta\Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benvb\Dokumenter\My Games\Terraria\ModLoader\Beta\Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.AssemblyInfoInputs.cache
+C:\Users\benvb\Dokumenter\My Games\Terraria\ModLoader\Beta\Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.AssemblyInfo.cs
+C:\Users\benvb\Dokumenter\My Games\Terraria\ModLoader\Beta\Mod Sources\ExampleMod\obj\Debug\net6.0\ExampleMod.csproj.CoreCompileInputs.cache

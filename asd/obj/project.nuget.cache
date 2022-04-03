@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "larmVcplXGvsiPZBh4VLffk10xUriN1SZ62IhsEs2kb+TWqwcI6gwSzPvVnLPxNiF8Es78EQwTggdrFPJ3M+Fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\benvb\\Dokumenter\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\asd\\asd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\benvb\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
